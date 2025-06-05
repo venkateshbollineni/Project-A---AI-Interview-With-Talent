@@ -1,1 +1,1 @@
-# This Repo consists of the Creating an AI Agent for Interviewing the candidates
+# This repo consists of the creating an AI Agent for interviewing the candidates
